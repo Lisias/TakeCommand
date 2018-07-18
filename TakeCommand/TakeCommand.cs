@@ -76,7 +76,7 @@ namespace TakeCommand
                     print("[TakeCommand] added escape hatch to " + this.part.name + " (" + this.part.GetInstanceID() + ")");
 
                     // Disable it for now until we need it
-                    escapeHatch.GetComponent<Collider>().enabled = true;
+                    escapeHatch.GetComponent<Collider>().enabled = false;
                 }
 
             }
