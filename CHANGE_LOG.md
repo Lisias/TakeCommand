@@ -1,5 +1,8 @@
 # TakeCommand :: Change log
 
+* 2016-1226: 1.4.5 (linuxgurugamer) for KSP 1.2.2
+	+ Added patch for Omicron
+	+ Added patch form Kerbonov-KN2
 * 2016-1226: 1.4.4 (linuxgurugamer) for KSP 1.2.2
 	+ Added patch for WildBlueIndustries
 	+ Added patch for USI Exploration
