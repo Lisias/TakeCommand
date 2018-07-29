@@ -1,4 +1,4 @@
-# TakeCommand (Unofficial)
+# TakeCommand (Archive)
 
 Originally written by @seanmcdougall. Fix for 1.2.2 provided by @GFX5000i
 
