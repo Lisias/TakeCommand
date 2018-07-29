@@ -1,5 +1,8 @@
 # TakeCommand :: Change log
 
+* 2016-1218: 1.4.2.1 (linuxgurugamer) for KSP 1.2.2
+	+ Fixed build scripts (paths were wrong)
+	+ Now contains correct .version fil
 * 2016-1213: 1.4.2 (linuxgurugamer) for KSP 1.2.2
 	+ Updated for 1.2.2
 * 2016-0506: 1.4.1 (seanmcdougall) for KSP 1.1.2
