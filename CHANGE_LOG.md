@@ -1,5 +1,8 @@
 # TakeCommand :: Change log
 
+* 2017-1126: 1.4.11 (linuxgurugamer) for KSP 1.3.1
+	+ Added check for external seat being inside fairing
+	+ Added Jenkins build
 * 2017-1009: 1.4.10.1 (linuxgurugamer) for KSP 1.3.1
 	+ Updated MM dll
 * 2017-1008: 1.4.10 (linuxgurugamer) for KSP 1.3.1
