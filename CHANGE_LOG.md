@@ -1,5 +1,7 @@
 # TakeCommand :: Change log
 
+* 2017-0116: 1.4.8 (linuxgurugamer) for KSP 1.2.2
+	+ Now finds the best kerbal in the seats 
 * 2017-0115: 1.4.7 (linuxgurugamer) for KSP 1.2.2
 	+ Added Akita rover seat from USI Konstruction/MKS, thanks Aelfhe1m
 	+ Added code to override UpdateControlSourceState, to report correct state for external seats
