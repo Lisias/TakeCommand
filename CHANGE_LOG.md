@@ -1,5 +1,7 @@
 # TakeCommand :: Change log
 
+* 2017-1009: 1.4.10.1 (linuxgurugamer) for KSP 1.3.1
+	+ Updated MM dll
 * 2017-1008: 1.4.10 (linuxgurugamer) for KSP 1.3.1
 	+ Updated for 1.3.1 
 * 2017-0925: 1.4.9.1 (linuxgurugamer) for KSP 1.3
