@@ -1,5 +1,8 @@
 # TakeCommand :: Change log
 
+* 2016-0506: 1.4.1 (seanmcdougall) for KSP 1.1.2
+	+ recompiled for KSP 1.1.2
+	+ updated ModuleManager to 2.6.24
 * 2016-0424: 1.4 (seanmcdougall) for KSP 1.1
 	+ fixed for KSP 1.1
 	+ updated ModuleManager to 2.6.23 
