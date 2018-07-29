@@ -1,5 +1,7 @@
 # TakeCommand :: Change log
 
+* 2017-0925: 1.4.9.1 (linuxgurugamer) for KSP 1.3
+	+ Added MM patch to add mod AutoAction function to External Command Seat-like parts. 
 * 2017-0528: 1.4.9 (linuxgurugamer) for KSP 1.3
 	+ Updated for 1.3 
 * 2017-0116: 1.4.8 (linuxgurugamer) for KSP 1.2.2
