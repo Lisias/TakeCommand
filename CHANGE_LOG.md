@@ -1,5 +1,7 @@
 # TakeCommand :: Change log
 
+* 2018-0120: 1.4.11.1 (linuxgurugamer) for KSP 1.3.1
+	+ Added line for the Stockalike Mk1 Open Cockpit in the patch to add a vesselType line
 * 2017-1126: 1.4.11 (linuxgurugamer) for KSP 1.3.1
 	+ Added check for external seat being inside fairing
 	+ Added Jenkins build
