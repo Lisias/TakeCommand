@@ -1,20 +1,33 @@
 {
-  "NAME": "TakeCommandContinued",
-  "URL": "https://raw.githubusercontent.com/linuxgurugamer/TakeCommand/master/TakeCommand.version",
-  "DOWNLOAD": "https://github.com/LinuxGuruGamer/TakeCommand/releases",
-  "GITHUB": {
-    "USERNAME": "linuxgurugamer",
-    "REPOSITORY": "TakeCommand"
-  },
-  "VERSION": {
-    "MAJOR": 1,
-    "MINOR": 4,
-    "PATCH": 12,
-    "BUILD": 1
-  },
-  "KSP_VERSION": {
-    "MAJOR": 1,
-    "MINOR": 4,
-    "PATCH": 1
-  }
+	"NAME":"TakeCommand Unofficial",
+	"URL":"https://raw.githubusercontent.com/net-lisias-kspu/TakeCommand/master/TakeCommand.version",
+	"DOWNLOAD":"https://github.com/net.lisias.kspu/TakeCommand/releases",
+	"CHANGE_LOG":"https://raw.githubusercontent.com/net-lisias-kspu/TakeCommand/CHANGE_LOG.md",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/net-lisias-kspu/TakeCommand/CHANGES.md",
+	"GITHUB":{
+		"USERNAME":"net-lisias-kspu",
+		"REPOSITORY":"TakeCommand",
+		"ALLOW_PRE_RELEASE":false
+		},
+	"VERSION":{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":12,
+		"BUILD":1
+		},
+	"KSP_VERSION":{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":0
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":0
+		},
+	"KSP_VERSION_MAX":{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":99
+		}
 }
