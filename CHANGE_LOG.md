@@ -1,5 +1,7 @@
 # TakeCommand :: Change log
 
+* 2015-1130: 1.3 beta (seanmcdougall) for KSP 1.0.5
+	+ now allows spawning Kerbals into command seats after launch (i.e. on a crew transfer)
 * 2015-1114: 1.2.1 (seanmcdougall) for KSP 1.0.5
 	+ Recompiled for KSP 1.0.5
 	+ Updated to ModuleManager 2.6.13
