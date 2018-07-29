@@ -1,9 +1,18 @@
-# TakeCommand
+# TakeCommand Unofficial
 
-Continuation of the Take Command mod
-Originally written by @seanmcdougall
-Fix for 1.2.2 provided by @GFX5000i
+Originally written by @seanmcdougall. Fix for 1.2.2 provided by @GFX5000i
 
+## In a Hurry
+
+Continuation of the Take Command - unofficial fork by Lisias.
+
+* [Latest Release](https://github.com/net-lisias-kspu/TakeCommand/releases)
+* [Source](https://github.com/net-lisias-kspu/TakeCommand)
+* [Binaries](https://github.com/net-lisias-kspu/TakeCommand/tree/Archive)
+* [Change Log](./CHANGE_LOG.md)
+
+
+## Description
 
 Take Command enhances the External Command Seat so you can now assign crew to it from within the VAB/SPH just like any other command module.  Just add one or more command seats to your ship, assign crew as usual, and launch!  Your Kerbal crew will automatically spawn and jump into their assigned seats.
 
@@ -11,6 +20,7 @@ Current Version: 1.4.2.1
 Current forum Thread:  http://forum.kerbalspaceprogram.com/index.php?/topic/153436-122-take-command-continued-launch-kerbals-in-external-command-seats/
 
 +++++++ following from prior versions +++++++++
+
 Forum Thread
 
 http://forum.kerbalspaceprogram.com/threads/120740
@@ -25,3 +35,16 @@ Credits
 - Nifty255 for his great assortment of YouTube modding tutorials.
 - Sarbian for ModuleManager
 - Everyone in the KSP development forums who have posted helpful links and code samples.
+
+
+## UPSTREAM
+
+* [linuxgurugamer](https://forum.kerbalspaceprogram.com/index.php?/profile/129964-linuxgurugamer/):
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/153436-141-take-command-continued-launch-kerbals-in-external-command-seats/&)
+	+ [CurseForge](https://spacedock.info/mod/1112/TakeCommandContinued)
+	+ [GitHub](https://github.com/linuxgurugamer/TakeCommand/releases)
+* [seanmcdougall](https://forum.kerbalspaceprogram.com/index.php?/profile/143691-seanmcdougall/):
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/108711-112-take-command-launch-kerbals-in-external-command-seats-v141-may-6-2016/)
+	+ [SpaceDock](https://spacedock.info/mod/585/Take%20Command)
+	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/take-command)
+	+ [GitHub](https://github.com/seanmcdougall/TakeCommand/releases)
