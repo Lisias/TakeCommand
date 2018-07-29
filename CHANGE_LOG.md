@@ -1,5 +1,9 @@
 # TakeCommand :: Change log
 
+* 2018-0317: 1.4.12 (linuxgurugamer) for KSP 1.4.1
+	+ Updated for 1.4.1
+	+ Updated build scripts
+	+ Updated version file
 * 2018-0120: 1.4.11.1 (linuxgurugamer) for KSP 1.3.1
 	+ Added line for the Stockalike Mk1 Open Cockpit in the patch to add a vesselType line
 * 2017-1126: 1.4.11 (linuxgurugamer) for KSP 1.3.1
