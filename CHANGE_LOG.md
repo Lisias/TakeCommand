@@ -1,5 +1,7 @@
 # TakeCommand :: Change log
 
+* 2017-0528: 1.4.9 (linuxgurugamer) for KSP 1.3
+	+ Updated for 1.3 
 * 2017-0116: 1.4.8 (linuxgurugamer) for KSP 1.2.2
 	+ Now finds the best kerbal in the seats 
 * 2017-0115: 1.4.7 (linuxgurugamer) for KSP 1.2.2
