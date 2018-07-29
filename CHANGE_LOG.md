@@ -1,5 +1,9 @@
 # TakeCommand :: Change log
 
+* 2016-1226: 1.4.4 (linuxgurugamer) for KSP 1.2.2
+	+ Added patch for WildBlueIndustries
+	+ Added patch for USI Exploration
+	+ Added patch for NESDparts
 * 2016-1225: 1.4.3 (linuxgurugamer) for KSP 1.2.2
 	+ Patch added for BetterCrewAssignment
 		- Fixed issue when a part has multiple external seats
