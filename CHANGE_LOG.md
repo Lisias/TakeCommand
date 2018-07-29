@@ -1,5 +1,8 @@
 # TakeCommand :: Change log
 
+* 2017-0115: 1.4.7 (linuxgurugamer) for KSP 1.2.2
+	+ Added Akita rover seat from USI Konstruction/MKS, thanks Aelfhe1m
+	+ Added code to override UpdateControlSourceState, to report correct state for external seats
 * 2017-0111: 1.4.6 (linuxgurugamer) for KSP 1.2.2
 	+ Updated all patches to add EVA Parachute if that mod is installed
 	+ removed BetterCrewAssignment (can't do internal transfer to external seat)
