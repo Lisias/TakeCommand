@@ -1,5 +1,9 @@
 # TakeCommand :: Change log
 
+* 2016-1225: 1.4.3 (linuxgurugamer) for KSP 1.2.2
+	+ Patch added for BetterCrewAssignment
+		- Fixed issue when a part has multiple external seats
+		- Patch added for SXTContinued, for the Lark
 * 2016-1218: 1.4.2.1 (linuxgurugamer) for KSP 1.2.2
 	+ Fixed build scripts (paths were wrong)
 	+ Now contains correct .version fil
