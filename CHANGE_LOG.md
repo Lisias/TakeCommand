@@ -1,5 +1,9 @@
 # TakeCommand :: Change log
 
+* 2018-0801: 1.4.12.2 (lisias) for KSP 1.4.x
+	+ Preventing Kerbals being "poofed" when more than one seat is being populated on a cockipt.
+		- As by SXT's EAS-316 Meadowlark
+	+ The second Kerbal drops to the ground, however. A proper fix is WiP at the moment.
 * 2018-0629: 1.4.12.1 (linuxgurugamer) for KSP 1.4.1
 	+ Added fix so returning to editor won't prevent spawning again
 	+ Added check for female kerbal 
@@ -65,3 +69,17 @@
 * 2015-0606: 1.1.4 (seanmcdougall) for KSP 1.0.3
 	+ recompiled for KSP 1.0.3/1.0.4
 	+ updated to latest version of ModuleManager
+* 2015-0521: 1.1.3
+	+ fixes compatibility issue with Kerbal Inventory System (KIS)
+	+ fixes compatibility issue with Kerbal Joint Reinforcement (KJR)
+* 2015-0515: 1.1.2
+	+ tweaked MM config again to add ":for" tag
+* 2015-0512: 1.1.1
+	+ tweaked MM config to remove ":final" tag
+	+ module is now just disabled after processing is complete instead of being removed from the part
+* 2015-0512: 1.1
+	+ fixed "No Control" warning
+	+ ModuleManager is now required for more reliable PartModule manipulation (latest version is included in release package)
+	+ general code cleanup and commenting
+* 2015-0510): 1.0
+	+ initial release
