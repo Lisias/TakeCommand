@@ -3,6 +3,7 @@ GameData/**/*.version
 GameData/**/README.md
 GameData/**/CHANGES.md
 GameData/**/CHANGE_LOG.md
+GameData/**/LICENSE
 Archive
 TakeCommand/obj
 bin
