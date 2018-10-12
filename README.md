@@ -7,8 +7,8 @@ Originally written by @seanmcdougall. Fix for 1.2.2 provided by @GFX5000i
 Continuation of the Take Command - unofficial fork by Lisias.
 
 * [Latest Release](https://github.com/net-lisias-kspu/TakeCommand/releases)
+	+ [Binaries](https://github.com/net-lisias-kspu/TakeCommand/tree/Archive)
 * [Source](https://github.com/net-lisias-kspu/TakeCommand)
-* [Binaries](https://github.com/net-lisias-kspu/TakeCommand/tree/Archive)
 * [Change Log](./CHANGE_LOG.md)
 
 
